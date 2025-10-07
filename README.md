@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![edm 5 1 Drawing buvan_page-0001](https://github.com/user-attachments/assets/9b0891ff-59e9-4160-bcf9-8c175a3939f4)
+
+![edm 5 1 Drawing BHUVAN_page-0001](https://github.com/user-attachments/assets/48144480-d4bf-45e3-a3d3-90543c131dc8)
 
 
 ## RESULT:
